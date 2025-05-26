@@ -7,6 +7,11 @@
 
 A professional, high-performance DDoS stress testing platform for network administrators and security professionals. Test your infrastructure's resilience against various attack vectors.
 
+
+## 💲 Buy Access or Source Code 💲
+
+- 💬 **Add Me Friend**: Discord: stellarbots123
+
 ## ✨ Features
 
 - 🔄 **Multi-layer Testing**: Support for Layer 3, Layer 4, and Layer 7 attacks
